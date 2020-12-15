@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+josh (at) schultheiss (dot) io
+
+### Support me
+
+- [Support my music](https://musician.tips/josh)
+- [Support my software](https://github.com/sponsors/0x213F)
