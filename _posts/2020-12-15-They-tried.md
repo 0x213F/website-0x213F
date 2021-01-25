@@ -9,7 +9,7 @@ Tyler, The Creator [tweeted a selection of his favorite songs released in 2020](
 
 Above is a [screenshot of said Twitter reply](https://twitter.com/maximuscruzrod/status/1337501251928346624). The original has since been deleted.
 
-In this post I unpack my interpretation of this whole situation.
+In this post I unpack my interpretation of the whole situation.
 
 ## Level 1
 
