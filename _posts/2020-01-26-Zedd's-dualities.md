@@ -7,7 +7,7 @@ title: Zedd's dualities
 
 The duality of <span style="color: blue;">introversion</span> is that it both:
 
-- _creates a safe space for self admiration_.
+- _creates a safe space for reflection_.
 - _builds a pressing force (increasing as a function of time) towards <span style="color: red;">extroversion</span>_.
 
 The duality of <span style="color: red;">extroversion</span> is that it both:
