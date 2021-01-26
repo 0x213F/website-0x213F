@@ -15,13 +15,13 @@ The duality of <span style="color: red;">extroversion</span> is that it both:
 - _stimulates growth by experience_.
 - _builds a pressing force (increasing as a function of time) towards <span style="color: blue;">introversion</span>_.
 
-Acknowledging the _forces connecting_ <span style="color: blue;">introversion</span> and <span style="color: red;">extroversion</span> has brought great clarity to my being.
+Acknowledging the _forces connecting <span style="color: blue;">introversion</span> and <span style="color: red;">extroversion</span>_ has brought great clarity to my being.
 
 As such, I try my best to home in on the rhythm between forces and harmoniously dance within them.
 
 ## Zedd
 
-Consider these forces in context of relationships.
+Consider these forces in the context of personal relationships.
 
 **Kehlani**’s vocal performance on [**Good Thing**](https://www.youtube.com/watch?v=CMla2ZIz7-4) accurately depicts _the state of resisting a large pressing force towards <span style="color: red;">extroversion</span>_.
 
