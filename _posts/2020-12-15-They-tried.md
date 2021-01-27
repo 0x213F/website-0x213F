@@ -1,6 +1,7 @@
 ---
 layout: post
 title: They tried
+weight: 99
 ---
 
 Tyler, The Creator [tweeted a selection of his favorite songs released in 2020](https://twitter.com/tylerthecreator/status/1337462813602717702?s=20). In a Twitter reply, he expanded on his statement to further expressed his liking of the album [**03.15.20**](https://smarturl.it/3152020DGP).
