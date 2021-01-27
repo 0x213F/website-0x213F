@@ -35,8 +35,8 @@ At [18.42](https://youtu.be/gezFLhUznSk?t=1122), _Donald is tripping really hard
 
 > I'm almost here
 
- ## Conclusion
+## Conclusion
 
- **12.38** is only the beginning of the shrooms trip. Listen to [**03.15.20**](https://smarturl.it/3152020DGP) in its entirety for the full experience.
+ **12.38** is only the beginning. Listen to [**03.15.20**](https://smarturl.it/3152020DGP) in its entirety for the full experience.
 
 ---
