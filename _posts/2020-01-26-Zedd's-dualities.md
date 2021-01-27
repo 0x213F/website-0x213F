@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Zedd's dualities
-weight: 98
 ---
 
 ## Dualities
