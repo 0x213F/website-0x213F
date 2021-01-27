@@ -31,9 +31,9 @@ The passive listener will consider this segment boring and uninspiring.
 
 The active listener will understand why Donald Glover chose to make this artistic statement.
 
-At this point in the narrative, Donald is tripping really hard and is just trying to make it home alive.  
+At [18.42](https://youtu.be/gezFLhUznSk?t=1122), _Donald is tripping really hard and is just trying to make it home alive_.  
 
-> [I'm almost here](https://youtu.be/gezFLhUznSk?t=1122)
+> I'm almost here
 
  ## Conclusion
 
