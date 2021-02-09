@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-josh (at) schultheiss (dot) io
+josh@schultheiss.io
