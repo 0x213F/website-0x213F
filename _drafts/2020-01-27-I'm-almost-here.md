@@ -38,6 +38,6 @@ By [18.42](https://youtu.be/gezFLhUznSk?t=1122), the drugs are really starting t
 
 ## Continued
 
-More about [the radio, though](https://schultheiss.io).
+More about [the radio, though](https://0x213F.com).
 
 ---
