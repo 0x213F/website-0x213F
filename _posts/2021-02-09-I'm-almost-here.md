@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm almost here
-weight: 96
+weight: 95
 ---
 
 ## Introduction
@@ -30,14 +30,16 @@ And so they both venture outside.
 
 ## Pt. 2
 
-While they walk they discuss their relationship.  in the middle of a conversation about their relationship. Donald's partner presents a many audio cues lead the listener to anticipate the end of the song. Anticipation builds  the song keeps going (with only a few added audio distortions).
+While they walk they discuss their relationship. By the end of the conversation, Donald is having an existential crisis.
+
+Towards the end of the song, the _audio experience_ brings the listener into the _feeling that Donald is experiencing in the story_.
+
+Audio cues bring the listener to anticipate the end of the song. Defying expectations, the song continues to go on.
+
+**This is an artistic statement.**
 
 By [18.42](https://youtu.be/gezFLhUznSk?t=1122), the drugs are really starting to kick in. Donald is rushing home for safety. In other words, _Donald is tripping balls_.
 
 > I'm almost here
-
-## Continued
-
-More about [the radio, though](https://0x213F.com).
 
 ---
