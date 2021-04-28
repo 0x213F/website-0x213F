@@ -243,13 +243,22 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border: 1px solid $lightGray;
+  border-radius: 16px;
+  box-shadow: 2px 4px 8px $lightGray;
+  margin-bottom: 50px;
+  padding: 2em;
+  padding-bottom: 2em;
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+.posts > .post > h1 {
+  margin: 0;
 }
+
+// .posts > .post:last-child {
+//   padding-bottom: 1em;
+//   border-bottom: none;
+// }
 
 .post {
   blockquote {
