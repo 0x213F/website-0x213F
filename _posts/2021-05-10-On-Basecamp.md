@@ -24,14 +24,12 @@ Personally, I doubt that 1/3 of company employees would have quit if this was a 
 
 ## My recommendation
 
-Drop the autocracy. **Adopt a democracy.**
-
-Relinquish control of the company to a democratic process.
+**Make more decisions democratically.**
 
 <u>Democracy is something you need to further implement in your workplace.</u> If you doubt this, ask your employees:
 
 > "Would you benefit from additional democratic decision making processes?"
 
-<u>You risk a recurrent controversy</u>, unless you **address this problem at its root cause**.
+You must **address this problem at its root cause**, otherwise <u>you risk a recurrent controversy</u>.
 
 ---
