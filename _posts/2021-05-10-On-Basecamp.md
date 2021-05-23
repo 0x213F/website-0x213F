@@ -32,4 +32,6 @@ Personally, I doubt that 1/3 of company employees would have quit if this was a 
 
 You must **address this problem at its root cause**, otherwise <u>you risk a recurrent controversy</u>.
 
+[(See also: _Sociocracy_)](https://en.wikipedia.org/wiki/Sociocracy)
+
 ---
