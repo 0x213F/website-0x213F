@@ -4,13 +4,13 @@ title: Corporate feudalism?
 weight: 92
 ---
 
-# Forced Entrepreneurs - [🔗](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
+# Forced Entrepreneurs
 
 _Isaac Hacamo and Kristoph Kleiner_
 
 _73 Pages • Posted: 29 Jun 2016 • Last revised: 11 May 2021_
 
-## Abstract
+## Abstract - [🔗](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
 
 > Conventional wisdom suggests labor market distress drives workers into temporary self-employment, lowering entrepreneurial quality. Analyzing employment histories for 640,000 U.S. workers, we document graduating college during a period of high unemployment does increase entry to entrepreneurship. However, compared to voluntary entrepreneurs, firms founded by forced entrepreneurs are more likely to survive, innovate, and receive venture-backing. Explaining these results, we confirm labor shocks disproportionately impact high-earners and these same workers start more successful firms. Overall, we document untapped entrepreneurial potential across the top of the income distribution and demonstrate the role of recessions in reversing this missing entrepreneurship.
 
