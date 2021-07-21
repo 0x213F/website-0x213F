@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 12.38 explained - but actually
+title: Why you shouldn't listen to your Spotify "Daily Mix"
 weight: 91
 ---
 
