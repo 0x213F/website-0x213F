@@ -8,7 +8,7 @@ weight: 92
 
 _Isaac Hacamo and Kristoph Kleiner_
 
-_73 Pages • Posted: 29 Jun 2016 • Last revised: 11 May 2021_
+_73 Pages • Posted: 29 Jun 2016 • Last revised: 21 Oct 2021_
 
 ## Abstract - [🔗](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
 

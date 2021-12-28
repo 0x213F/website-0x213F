@@ -30,15 +30,17 @@ And so they both venture outside.
 
 ## Pt. 2
 
-While they walk they discuss their relationship. By the end of the conversation, Donald is having an existential crisis.
+While they walk they discuss their relationship. By the end of the conversation, [**Donald is having an existential crisis**](https://0x213F.com/12.38-explained-but-actually).
 
-Towards the end of the song, the _audio experience_ brings the listener into the _feeling that Donald is experiencing in the story_.
+## Pt. 3
 
-Audio cues bring the listener to anticipate the end of the song. Defying expectations, the song continues to go on.
+Analyzing the song form, something irregular happens towards the end: the groove repeats more than expected.
 
-**This is an artistic statement.**
+The listener anticipates that the song will end (For the story to be resolved). Defying expectations, the song continues to go on (No resolution is reached).
 
-By [18.42](https://youtu.be/gezFLhUznSk?t=1122), the drugs are really starting to kick in. Donald is rushing home for safety. In other words, _Donald is tripping balls_.
+ **This is done on purpose. This is an artistic statement.**
+
+By [18.42](https://youtu.be/gezFLhUznSk?t=1122), the drugs are really starting to kick in. Donald's thoughts are spiraling and he is rushing home for safety. In other words, _Donald is tripping balls_.
 
 > I'm almost here
 

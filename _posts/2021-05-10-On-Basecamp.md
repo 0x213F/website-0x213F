@@ -8,27 +8,27 @@ Bad decisions are bound to happen. **How** bad decisions are created means every
 
 ## Individual
 
-When it comes to an _individual's performance_, faults and weaknesses are expected.
+_"No one is perfect."_
+
+When it comes to an individual making a decision, _faults and weaknesses are expected_.
 
 ## Collective
 
-While analyzing a _collective's performance_, undesirable outcomes are tolerated.
+_"All for one and one for all."_
+
+If the group makes the decision together, _the outcome is always tolerated_.
 
 ## In other words
 
-If _one person_ makes a decision, it might be a bad one. That individual is solely accountable for what follows.
-
-If _the collective_ makes a decision, the result will be tolerated amongst each individual that helped make the decision.
-
-Personally, I doubt that 1/3 of company employees would have quit if this was a collective decision.
+When something as crazy as [1/3 of your employees quitting](https://www.nytimes.com/2021/04/30/technology/basecamp-politics-ban-resignations.html) happens, it makes you wonder how out of touch the CEO is with the people at their company.
 
 ## My recommendation
 
 **Make more decisions democratically.**
 
-<u>Democracy is something you need to further implement in your workplace.</u> If you doubt this, ask your employees:
+<u>Democracy is something you need to further implement in your workplace.</u> If you doubt this, leave it up to a democratic poll:
 
-> "Would you benefit from additional democratic decision making processes?"
+> "Would our company benefit from additional democratic decision making processes?"
 
 You must **address this problem at its root cause**, otherwise <u>you risk a recurrent controversy</u>.
 

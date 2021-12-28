@@ -18,7 +18,7 @@ The duality of <span style="color: DarkOrange;">extroversion</span> is that it b
 
 Acknowledging the _forces connecting <span style="color: BlueViolet;">introversion</span> and <span style="color: DarkOrange;">extroversion</span>_ has brought great clarity to my being.
 
-As such, I try my best to home in on the rhythm between forces and harmoniously dance within them.
+As such, I try my best to balance these forces and harmoniously dance within them.
 
 ## Zedd
 
