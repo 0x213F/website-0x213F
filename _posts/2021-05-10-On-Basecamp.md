@@ -12,25 +12,29 @@ _"No one is perfect."_
 
 When it comes to an individual making a decision, _faults and weaknesses are expected_.
 
+Think about this from the perspective of an engineering manager. Would they ever let an engineer design and implement an entire feature <u>without any input from the rest of the team?</u>
+
 ## Collective
 
 _"All for one and one for all."_
 
 If the group makes the decision together, _the outcome is always tolerated_.
 
+Think about the importance of group decisions when it comes to things like: architecture proposals, code reviews, testing and verification.
+
 ## In other words
 
-When something as crazy as [1/3 of your employees quitting](https://www.nytimes.com/2021/04/30/technology/basecamp-politics-ban-resignations.html) happens, it makes you wonder how out of touch the CEO is with the people at their company.
+Why would you let [one person make such an important decision](https://www.nytimes.com/2021/04/30/technology/basecamp-politics-ban-resignations.html) <u>without any input from the rest of the team?</u>
 
 ## My recommendation
 
 **Make more decisions democratically.**
 
-<u>Democracy is something you need to further implement in your workplace.</u> If you doubt this, leave it up to a democratic poll:
+Democracy is something you need to further implement in your workplace. If you doubt this, leave it up to a democratic poll:
 
 > "Would our company benefit from additional democratic decision making processes?"
 
-You must **address this problem at its root cause**, otherwise <u>you risk a recurrent controversy</u>.
+You must **address this problem at its root cause**, otherwise you risk a recurrent controversy.
 
 [(See also: _Sociocracy_)](https://en.wikipedia.org/wiki/Sociocracy)
 

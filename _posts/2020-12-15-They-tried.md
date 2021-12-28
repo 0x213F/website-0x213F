@@ -46,6 +46,6 @@ From the above, you may choose to justify the conclusion that both Tyler and Don
 
 ## Level 8
 
-I would be remiss not to take this opportunity to further highlight that [**Donald Glover's album 3.15.20 was legendary**](https://0x213F.com/No-sound).
+I would be remiss not to take this opportunity to further highlight that [**people missed out on some really cool shit, to me at least**](https://0x213F.com/No-sound).
 
 ---

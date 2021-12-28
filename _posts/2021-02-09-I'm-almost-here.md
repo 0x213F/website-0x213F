@@ -36,11 +36,13 @@ While they walk they discuss their relationship. By the end of the conversation,
 
 Analyzing the song form, something irregular happens towards the end: the groove repeats more than expected.
 
-The listener anticipates that the song will end (For the story to be resolved). Defying expectations, the song continues to go on (No resolution is reached).
+The listener anticipates that the song will end. (For the story to be resolved). Defying expectations, the song continues to go on. (No resolution is reached)
 
  **This is done on purpose. This is an artistic statement.**
 
-By [18.42](https://youtu.be/gezFLhUznSk?t=1122), the drugs are really starting to kick in. Donald's thoughts are spiraling and he is rushing home for safety. In other words, _Donald is tripping balls_.
+By [18.42](https://youtu.be/gezFLhUznSk?t=1122), the drugs are really starting to kick in. Donald's thoughts are spiraling and he is rushing home for safety.
+
+In other words, _Donald is tripping balls_.
 
 > I'm almost here
 
