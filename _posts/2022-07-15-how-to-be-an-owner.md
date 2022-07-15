@@ -183,11 +183,11 @@ it is probably best for <a href="#part-five">_the company_</a> to get rid of _ru
 
 follow these steps:
 
-1: over-hire
-1: _"oops, we over-hired. now we have to do layoffs"_
-1: dispose of the rusty cogs
-1: instill both **fear** and **gratitude** into those that remain
-1: repeat
+1. over-hire
+1. _"oops, we over-hired. now we have to do layoffs"_
+1. dispose of the rusty cogs
+1. instill both **fear** and **gratitude** into those that remain
+1. repeat
 
 ## Part eight: Now it's your turn
 
