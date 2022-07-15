@@ -45,7 +45,7 @@ the choice to hire _an employee_ is done under the presumption that the cost of 
 
 ## part two: the employee
 
-after reading the previous section, _the employee may begin to question their reality:_
+after reading the previous section, **_the employee may begin to question their reality:_**
 
 * will I get paid more if I work harder?
 * will I get paid more if the business succeeds?
@@ -56,13 +56,13 @@ the worker is left with a few choices:
 
 * do nothing and accept reality
   * _"this job is a means to live my life outside of work"_
-  * accept reality
+  * _accept reality_
 * quit and get another job
-  * the same problems will persist at the new job
+  * _the same problems will persist at the new job_
 * quit to become an owner
-  * see the guide on [how to be an owner](https://0x213F.com/how-to-be-an-owner)
-* _[[ classified ]]_
-* _[[ classified ]]_
+  * _see the guide on [how to be an owner](https://0x213F.com/how-to-be-an-owner)_
+* **[[ classified ]]**
+* **[[ classified ]]**
 
 <br>
 
@@ -70,14 +70,14 @@ the worker is left with a few choices:
 
 ## part three: perspective from the owner
 
-after reading the previous section, _the owner begins to worry about their assets:_
+after reading the previous section, **_the owner begins to worry about their assets:_**
 
 * are my employees really trying their hardest?
-* are my employees as passionate as I am about this business?
+* are my employees really passionate about making me richer?
 
 _the owner_ needs to ensure their workers are productive and motivated.
 
-to accomplish this, _the owner must understand the psychology of a cog._
+to accomplish this, **_the owner must understand the psychology of a cog._**
 
 <br>
 
@@ -85,7 +85,7 @@ to accomplish this, _the owner must understand the psychology of a cog._
 
 ## part four: the psychology of a cog
 
-a good cog is grateful for their job. _reasons why cogs are happy and don't question their surroundings:_
+a good cog is grateful for their job. **_reasons why cogs are happy and don't question their surroundings:_**
 
 * "the hours of this job are so relaxed and flexible!"
 * "this job pays good money; why would i ever leave?"
@@ -101,7 +101,7 @@ in summary, the 4 things to focus on in order to grease up _the cogs_ are:
 
 in reality, _the owner_ simply wants people to work more and get paid less so _their investment_ generates a higher roi.
 
-to accomplish this, _the owner must understand the psychology of an owner._
+to accomplish this, **_the owner must understand the psychology of an owner._**
 
 <br>
 
@@ -117,25 +117,46 @@ _goal: manipulate the emotional state of employees so that:_
 
 to do accomplish this, take note of how _employees_ perceive _the owner_.
 
-**absolve your ego as an owner. you are now reborn as an employee.**
+**Absolve your ego as an owner. _You_ are now reborn as _an employee_.**
 
-    (figure 4)
+    (Figure 4)
 
-    [[ company ]] <—————— ··
+    [[ Company ]] <—————— ··
 
-    diagram: two points and an arrow pointing to the company
+    Diagram: Two points and an arrow pointing to the company
 
-_employees_ uphold the company for "the greater good." as such, you transact with the company, just as any other employee would, in the name of "progress" and "success."
+_Employees_ are to uphold the company for "the greater good." As such, _they_ work hard and diligently.
 
-you work hard and "dangle the carrot" in front of yourself, just as it is for the others.
+Just as any other employee would, _you_ transact with the company in the name of "progress" and "success."
 
-as such, you "share" the same worries as the employees. but rest assured, the company takes care of all employees as best it can.
+_You_ work hard and "dangle the carrot" in front of _yourself_, just as it is done for _the others_.
 
-if done correctly, this should build camaraderie amongst employees. everyone will be happily working toward a common goal due to aligned incentives.
+If done correctly, this should build camaraderie amongst _the entire team_. _Everyone_ should be happily working toward a common goal due to "aligned incentives."
 
-unbeknownst to the employees: you don't work as many hours as they do. you get paid more than they do. your carrot is bigger than theirs.
+Unbeknownst to _the employees_: _you_ don't work as many hours as _they_ do. _You_ get paid more than _they_ do. Your carrot is bigger than theirs.
 
-you can verify things are running as expected once you have created a pyramid-like compensation structure.
+You can verify things are running as expected once everyone is unquestioning and satisfied with the company's pyramid-like compensation structure.
+
+    (figure 5)
+
+                   .
+                  /=\\
+                 /===\ \
+                /=====\' \
+               /=======\'' \
+              /=========\ ' '\
+             /===========\''   \
+            /=============\ ' '  \
+           /===============\   ''  \
+          /=================\' ' ' ' \
+         /===================\' ' '  ' \
+        /=====================\' '   ' ' \
+       /=======================\  '   ' /
+      /=========================\   ' /
+     /===========================\'  /
+    /=============================\/
+
+    diagram: pyramid
 
 <br>
 
@@ -163,11 +184,11 @@ it is probably best for <a href="#part-five">_the company_</a> to get rid of _ru
 follow these steps:
 
 1: over-hire
-1: "oops, we over-hired. now we have to do layoffs"
+1: _"oops, we over-hired. now we have to do layoffs"_
 1: dispose of the rusty cogs
-1: instill both fear and gratitude into those that remain
+1: instill both **fear** and **gratitude** into those that remain
 1: repeat
 
-## part eight: now it's your turn
+## Part eight: Now it's your turn
 
-it is time for a self analysis. where is your company right now?
+Time for a self analysis. What step is _your_ company at right now?
