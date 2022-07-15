@@ -189,6 +189,10 @@ follow these steps:
 1. instill both **fear** and **gratitude** into those that remain
 1. repeat
 
-## Part eight: Now it's your turn
+<br><br><br>
+
+---
+
+## Now it's your turn
 
 Time for a self analysis. What step is _your_ company at right now?
