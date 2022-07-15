@@ -16,31 +16,19 @@ weight: 91
 
     diagram: single point
 
-_the single point_ in (figure 1) represents the business owner. the business owner controls the business and all of its operations.
+the single point in (figure 1) represents _the business owner_, the person who controls a business and all of its operations.
 
-<details>
-<summary>aside</summary>
-<br>
-obviously there is the possibility that there may be multiple business owners. for the sake of this article, **you should only be concerned with the concept of the business owner from a singular perspective.**
-</details>
-
-if the business makes less money than expected, the business will ceases to exist.
-
-otherwise, we may assume that the business has survived.
-
-in the case when profits exceed expenditure, the owner must consider how to reinvest the excess money. the most popular investment strategy amongst owners is to hire employees:
+when a business's profits exceed its expenditures, _the business owner_ must decide where to reinvest the excess money. the most popular investment strategy amongst owners is to hire employees:
 
     (figure 2)
 
     · <——————> ·
 
-    diagram: arrow pointing left and right
+    diagram: two points and a double-sided arrow
 
 _thereby, the right point is born._
 
-the choice to hire an employee is done under the presumption that the cost of their labor will be less than the value they add to the company.
-
-**ultimately, the employee is an asset** and should be considered a part of the company's investment strategy.
+the choice to hire _an employee_ is done under the presumption that the cost of their labor will be less than the value they add to the company.
 
     (figure 3)
 
@@ -49,11 +37,7 @@ the choice to hire an employee is done under the presumption that the cost of th
 
     diagram: mathematical representation of an employee
 
-<details>
-<summary>aside</summary>
-<br>
-things get a bit more complicated with equity and vc (the owners take on "more risk"). nevertheless, the core dynamic stays the same: owners operate under the assumption that the employees they hire will make them richer.
-</details>
+**ultimately, _the employee_ is an asset** and should be considered a part of the company's investment strategy.
 
 <br>
 
@@ -61,24 +45,24 @@ things get a bit more complicated with equity and vc (the owners take on "more r
 
 ## part two: the employee
 
-after reading the previous section, _the employee begins to question their circumstances:_
+after reading the previous section, _the employee may begin to question their reality:_
 
-* do I get paid enough?
 * will I get paid more if I work harder?
 * will I get paid more if the business succeeds?
-* what about if business goes poorly?
+* what happens if business goes poorly?
 * why should I work hard to make the owners richer?
-* is this fair?
-* can I get paid more elsewhere?
-* cog.meme
 
 the worker is left with a few choices:
 
-* do nothing; this job is a means to live my life outside of work (accept reality)
-* quit and get another job (the same problems will persist at the new job)
-* quit to become an owner (keep reading)
-* [[ classified ]]
-* [[ classified ]]
+* do nothing and accept reality
+  * _"this job is a means to live my life outside of work"_
+  * accept reality
+* quit and get another job
+  * the same problems will persist at the new job
+* quit to become an owner
+  * see the guide on [how to be an owner](https://0x213F.com/how-to-be-an-owner)
+* _[[ classified ]]_
+* _[[ classified ]]_
 
 <br>
 
@@ -86,12 +70,12 @@ the worker is left with a few choices:
 
 ## part three: perspective from the owner
 
-after reading the previous section, the owner begins to question their circumstances:
+after reading the previous section, _the owner begins to worry about their assets:_
 
-* are my workers really trying their hardest?
+* are my employees really trying their hardest?
 * are my employees as passionate as I am about this business?
 
-if an owner wants to increase the value of their company, they need to ensure their workers are productive and motivated.
+_the owner_ needs to ensure their workers are productive and motivated.
 
 to accomplish this, _the owner must understand the psychology of a cog._
 
@@ -101,31 +85,23 @@ to accomplish this, _the owner must understand the psychology of a cog._
 
 ## part four: the psychology of a cog
 
-a good cog is grateful for their job. reasons why cogs are happy and don't question their surroundings
+a good cog is grateful for their job. _reasons why cogs are happy and don't question their surroundings:_
 
 * "the hours of this job are so relaxed and flexible!"
-* "this job pays such good money; why would i ever leave?"
-* "money can't buy everything. this job rises above the rest; to my core, i enjoy being here so much."
+* "this job pays good money; why would i ever leave?"
+* "money can't buy happiness, and this job makes me happy."
 * "i literally couldn't find another job if i tried. it's tough out there."
 
-in summary, the 4 things to focus on in order to grease up the cogs are:
+in summary, the 4 things to focus on in order to grease up _the cogs_ are:
 
 1. hours
 1. wages
-3. working conditions
-4. manipulate the job market (unlikely you will have the power to do this)
+1. working conditions
+1. manipulate the job market (realistically not possible)
 
-in practice, this could mean
+in reality, _the owner_ simply wants people to work more and get paid less so _their investment_ generates a higher roi.
 
-<ol type="a">
-  <li>letting people arrive and leave the office when they please</li>
-  <li>salary/ stock packages above "industry standards"</li>
-  <li>todo insert third statement</li>
-</ol>
-
-in reality, you probably want to do any of those things. you simply want people to work more and get paid less.
-
-to accomplish this, an owner must understand the psychology of an owner.
+to accomplish this, _the owner must understand the psychology of an owner._
 
 <br>
 
@@ -133,21 +109,23 @@ to accomplish this, an owner must understand the psychology of an owner.
 
 ## <span id="part-five">part five: the psychology of an owner</span>
 
-reminder: your goal is to manipulates the emotional state of your workers so that:
+_goal: manipulate the emotional state of employees so that:_
 
 * they accept lower wages
 * put in extra hours
 * are fully productive while at work
 
-to do accomplish this, you must be aware of how your workers perceive you.
+to do accomplish this, take note of how _employees_ perceive _the owner_.
 
-absolve your ego as an owner. you are now reborn as an employee.
+**absolve your ego as an owner. you are now reborn as an employee.**
 
     (figure 4)
-    diagram: arrow pointing left
-    {{ company }} <—————— ··
 
-employees help uphold the company for "the greater good." As such, you transact with the company, just as any other employee would, in the name of "progress" and "success."
+    [[ company ]] <—————— ··
+
+    diagram: two points and an arrow pointing to the company
+
+_employees_ uphold the company for "the greater good." as such, you transact with the company, just as any other employee would, in the name of "progress" and "success."
 
 you work hard and "dangle the carrot" in front of yourself, just as it is for the others.
 
@@ -155,7 +133,7 @@ as such, you "share" the same worries as the employees. but rest assured, the co
 
 if done correctly, this should build camaraderie amongst employees. everyone will be happily working toward a common goal due to aligned incentives.
 
-unbeknownst to the employees, you don't work as many hours as they do. you get paid more than they do. your carrot is bigger than theirs.
+unbeknownst to the employees: you don't work as many hours as they do. you get paid more than they do. your carrot is bigger than theirs.
 
 you can verify things are running as expected once you have created a pyramid-like compensation structure.
 
@@ -165,16 +143,16 @@ you can verify things are running as expected once you have created a pyramid-li
 
 ## part six: rusty cogs
 
-there are going to be some "free thinking" cogs that still remain. they might be wondering:
+there are going to be some _"free thinking" cogs_ that still remain. they might be wondering:
 
 * i don't get paid enough
-* when do I get my carrot?
+* when do i get my carrot?
 * what is my job security?
 * why is everyone two faced?
 * [[ classified ]]
 * [[ classified ]]
 
-it is probably best for <a href="#part-five">the company</a> to get rid of rusty cogs.
+it is probably best for <a href="#part-five">_the company_</a> to get rid of _rusty cogs_.
 
 <br>
 
@@ -185,7 +163,11 @@ it is probably best for <a href="#part-five">the company</a> to get rid of rusty
 follow these steps:
 
 1: over-hire
-2: "oops, we over-hired. now we have to do layoffs"
-3: dispose of the rusty cogs
-4: instill both fear and gratitude into those that remain
-5: repeat
+1: "oops, we over-hired. now we have to do layoffs"
+1: dispose of the rusty cogs
+1: instill both fear and gratitude into those that remain
+1: repeat
+
+## part eight: now it's your turn
+
+it is time for a self analysis. where is your company right now?
