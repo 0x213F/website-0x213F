@@ -4,29 +4,30 @@ title: how to be an owner
 weight: 91
 ---
 
+<br>
 ## part one: the owner
 
-  (figure 1)
-    ·
-  diagram: single point
+    (figure 1)
+        ·
+    diagram: single point
 
-the single point in figure 1 represents <span style="color: purple;">the business owner</span>. <span style="color: purple;">the business owner</span> controls the business and all of its operations.
+the single point in _figure 1_ represents the business owner. the business owner controls the business and all of its operations.
 
 <details>
 <summary>aside</summary>
-
-obviously there is the possibility that there may be <span style="color: purple;">multiple business owners</span>. for the sake of this article, **you should only be concerned with the concept of <span style="color: purple;">the business owner</span> from a singular perspective.**
+<br>
+obviously there is the possibility that there may be multiple business owners. for the sake of this article, **you should only be concerned with the concept of the business owner from a singular perspective.**
 </details>
 
 if the business makes less money than expected, the business will ceases to exist.
 
 otherwise, we may assume that the business has survived.
 
-in the case when profits exceed expenditure, <span style="color: purple;">the owner</span> must consider how to reinvest the excess money. the most popular investment strategy among owners is to hire employees:
+in the case when profits exceed expenditure, the owner must consider how to reinvest the excess money. the most popular investment strategy among owners is to hire employees:
 
-  (figure 2)
-    · <——————> ·
-  diagram: arrow pointing left and right
+    (figure 2)
+        · <——————> ·
+    diagram: arrow pointing left and right
 
 thereby, the right is born.
 
@@ -34,14 +35,14 @@ the choice to hire an employee is done under the presumption that the cost of th
 
 ultimately, the employee is an asset and should be considered a part of the company's investment strategy.
 
-  (figure 3)
-    [ salary of employee ]     <  [ value added to company ]
-    [ value added to company ] == [ value added to business owner ]
-  diagram: mathematical representation of an employee
+    (figure 3)
+        [   salary of employee   ] <  [    value added to company     ]
+        [ value added to company ] == [ value added to business owner ]
+    diagram: mathematical representation of an employee
 
 <details>
 <summary>aside</summary>
-
+<br>
 things get a bit more complicated with equity and vc (the owners take on "more risk"). nevertheless, the core dynamic stays the same: owners operate under the assumption that the employees they hire will make them richer.
 </details>
 
@@ -66,8 +67,8 @@ the worker is left with a few choices:
 * do nothing; this job is a means to live my life outside of work (accept reality)
 * quit and get another job (the same problems will persist at the new job)
 * quit to become an owner (keep reading)
-* (( redacted ))
-* (( redacted ))
+* [[ redacted ]]
+* [[ redacted ]]
 
 <br>
 ---
@@ -156,8 +157,8 @@ there are going to be some "free thinking" cogs that still remain. they might be
 * when do I get my carrot?
 * what is my job security?
 * why is everyone two faced?
-* (( redacted ))
-* (( redacted ))
+* [[ redacted ]]
+* [[ redacted ]]
 
 it is probably best for "the company" (see part five) to get rid of rusty cogs.
 
@@ -177,4 +178,4 @@ follow these steps:
 <br>
 ---
 
-## part eight: (( redacted ))
+## part eight: [[ redacted ]]
