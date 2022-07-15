@@ -170,8 +170,8 @@ there are going to be some _"free thinking" cogs_ that still remain. they might 
 * when do i get my carrot?
 * what is my job security?
 * why is everyone two faced?
-* [[ classified ]]
-* [[ classified ]]
+* **[[ classified ]]**
+* **[[ classified ]]**
 
 it is probably best for <a href="#part-five">_the company_</a> to get rid of _rusty cogs_.
 
