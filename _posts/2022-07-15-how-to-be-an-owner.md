@@ -99,7 +99,9 @@ in summary, the 4 things to focus on in order to grease up _the cogs_ are:
 1. working conditions
 1. manipulate the job market (realistically not possible)
 
-in reality, _the owner_ simply wants people to work more and get paid less so _their investment_ generates a higher roi.
+these aren't great options.
+
+_the owner_ should wants people to work more and get paid less; they want _their investment_ to have a high roi.
 
 to accomplish this, **_the owner must understand the psychology of an owner._**
 
@@ -117,25 +119,29 @@ _goal: manipulate the emotional state of employees so that:_
 
 to do accomplish this, take note of how _employees_ perceive _the owner_.
 
-**Absolve your ego as an owner. _You_ are now reborn as _an employee_.**
+**absolve your ego as an owner. _you_ are now reborn as _an employee_.**
 
-    (Figure 4)
+    (figure 4)
 
-    [[ Company ]] <—————— ··
+    [[ company ]] <—————— ··
 
-    Diagram: Two points and an arrow pointing to the company
+    diagram: two points and an arrow pointing to the company
 
-_Employees_ are to uphold the company for "the greater good." As such, _they_ work hard and diligently.
+_employees_ are to uphold the company for "the greater good." as such, _they_ work hard and diligently.
 
-Just as any other employee would, _you_ transact with the company in the name of "progress" and "success."
+_you_ operate just as any other employee would: _you_ also transact with the company in the name of "progress" and "success."
 
 _You_ work hard and "dangle the carrot" in front of yourself, just as it is done for _the others_.
 
-If done correctly, this should build camaraderie amongst _the entire team_. _Everyone_ should be happily working toward a common goal due to "aligned incentives."
+if done correctly, this should build camaraderie amongst _the entire team_. _everyone_ should be happily working toward a common goal due to "aligned incentives."
 
-Unbeknownst to _the employees_: _you_ don't actually work as many hours as _they_ do. _You_ get paid more than _they_ do. **Your carrot is bigger than theirs.**
+unbeknownst to _the employees_:
 
-To verify things are running as expected, **make certain that _everyone_ is unquestioning and satisfied with the company's pyramid-like compensation structure.**
+* _you_ don't actually work as many hours as _they_ do.
+* _you_ get paid more than _they_ do.
+* **your carrot is bigger than theirs.**
+
+to verify things are running as expected, **make certain that _everyone_ is unquestioning and satisfied with the company's pyramid-like compensation structure.**
 
     (figure 5)
 
