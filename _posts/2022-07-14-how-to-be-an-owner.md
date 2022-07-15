@@ -11,10 +11,12 @@ weight: 91
 ## part one: the owner
 
     (figure 1)
-        ·
+
+    ·
+
     diagram: single point
 
-the single point in _figure 1_ represents the business owner. the business owner controls the business and all of its operations.
+_the single point_ in (figure 1) represents the business owner. the business owner controls the business and all of its operations.
 
 <details>
 <summary>aside</summary>
@@ -26,21 +28,25 @@ if the business makes less money than expected, the business will ceases to exis
 
 otherwise, we may assume that the business has survived.
 
-in the case when profits exceed expenditure, the owner must consider how to reinvest the excess money. the most popular investment strategy among owners is to hire employees:
+in the case when profits exceed expenditure, the owner must consider how to reinvest the excess money. the most popular investment strategy amongst owners is to hire employees:
 
     (figure 2)
-        · <——————> ·
+
+    · <——————> ·
+
     diagram: arrow pointing left and right
 
-thereby, the right is born.
+_thereby, the right point is born._
 
 the choice to hire an employee is done under the presumption that the cost of their labor will be less than the value they add to the company.
 
-ultimately, the employee is an asset and should be considered a part of the company's investment strategy.
+**ultimately, the employee is an asset** and should be considered a part of the company's investment strategy.
 
     (figure 3)
-        [   salary of employee   ] <  [    value added to company     ]
-        [ value added to company ] == [ value added to business owner ]
+
+    [   salary of employee   ] <  [    value added to company     ]
+    [ value added to company ] == [ value added to business owner ]
+
     diagram: mathematical representation of an employee
 
 <details>
@@ -55,7 +61,7 @@ things get a bit more complicated with equity and vc (the owners take on "more r
 
 ## part two: the employee
 
-after reading the previous section, the employee begins to question their circumstances:
+after reading the previous section, _the employee begins to question their circumstances:_
 
 * do I get paid enough?
 * will I get paid more if I work harder?
@@ -71,8 +77,8 @@ the worker is left with a few choices:
 * do nothing; this job is a means to live my life outside of work (accept reality)
 * quit and get another job (the same problems will persist at the new job)
 * quit to become an owner (keep reading)
-* [[ redacted ]]
-* [[ redacted ]]
+* [[ classified ]]
+* [[ classified ]]
 
 <br>
 
@@ -87,7 +93,7 @@ after reading the previous section, the owner begins to question their circumsta
 
 if an owner wants to increase the value of their company, they need to ensure their workers are productive and motivated.
 
-to accomplish this, the owner must understand the psychology of a cog.
+to accomplish this, _the owner must understand the psychology of a cog._
 
 <br>
 
@@ -125,7 +131,7 @@ to accomplish this, an owner must understand the psychology of an owner.
 
 ---
 
-## part five: the psychology of an owner
+## <span id="part-five">part five: the psychology of an owner</span>
 
 reminder: your goal is to manipulates the emotional state of your workers so that:
 
@@ -165,10 +171,10 @@ there are going to be some "free thinking" cogs that still remain. they might be
 * when do I get my carrot?
 * what is my job security?
 * why is everyone two faced?
-* [[ redacted ]]
-* [[ redacted ]]
+* [[ classified ]]
+* [[ classified ]]
 
-it is probably best for "the company" (see part five) to get rid of rusty cogs.
+it is probably best for <a href="#part-five">the company</a> to get rid of rusty cogs.
 
 <br>
 
@@ -181,11 +187,5 @@ follow these steps:
 1: over-hire
 2: "oops, we over-hired. now we have to do layoffs"
 3: dispose of the rusty cogs
-4: instill both gratitude and fear into those that remain
+4: instill both fear and gratitude into those that remain
 5: repeat
-
-<br>
-
----
-
-## part eight: [[ redacted ]]
