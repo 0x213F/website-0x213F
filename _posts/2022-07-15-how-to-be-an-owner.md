@@ -61,8 +61,8 @@ the worker is left with a few choices:
   * _the same problems will persist at the new job_
 * quit to become an owner
   * _see the guide on [how to be an owner](https://0x213F.com/how-to-be-an-owner)_
-* **[[ classified ]]**
-* **[[ classified ]]**
+* **classified - employee access only**
+* **classified - employee access only**
 
 <br>
 
@@ -170,8 +170,6 @@ there are going to be some _"free thinking" cogs_ that still remain. they might 
 * when do i get my carrot?
 * what is my job security?
 * why is everyone two faced?
-* **[[ classified ]]**
-* **[[ classified ]]**
 
 it is probably best for <a href="#part-five">_the company_</a> to get rid of _rusty cogs_.
 
