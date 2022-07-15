@@ -129,13 +129,13 @@ _Employees_ are to uphold the company for "the greater good." As such, _they_ wo
 
 Just as any other employee would, _you_ transact with the company in the name of "progress" and "success."
 
-_You_ work hard and "dangle the carrot" in front of _yourself_, just as it is done for _the others_.
+_You_ work hard and "dangle the carrot" in front of yourself, just as it is done for _the others_.
 
 If done correctly, this should build camaraderie amongst _the entire team_. _Everyone_ should be happily working toward a common goal due to "aligned incentives."
 
-Unbeknownst to _the employees_: _you_ don't work as many hours as _they_ do. _You_ get paid more than _they_ do. Your carrot is bigger than theirs.
+Unbeknownst to _the employees_: _you_ don't actually work as many hours as _they_ do. _You_ get paid more than _they_ do. **Your carrot is bigger than theirs.**
 
-You can verify things are running as expected once everyone is unquestioning and satisfied with the company's pyramid-like compensation structure.
+To verify things are running as expected, **make certain that _everyone_ is unquestioning and satisfied with the company's pyramid-like compensation structure.**
 
     (figure 5)
 
