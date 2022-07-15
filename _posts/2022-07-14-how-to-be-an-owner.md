@@ -5,6 +5,9 @@ weight: 91
 ---
 
 <br>
+
+---
+
 ## part one: the owner
 
     (figure 1)
@@ -47,6 +50,7 @@ things get a bit more complicated with equity and vc (the owners take on "more r
 </details>
 
 <br>
+
 ---
 
 ## part two: the employee
@@ -71,6 +75,7 @@ the worker is left with a few choices:
 * [[ redacted ]]
 
 <br>
+
 ---
 
 ## part three: perspective from the owner
@@ -85,6 +90,7 @@ if an owner wants to increase the value of their company, they need to ensure th
 to accomplish this, the owner must understand the psychology of a cog.
 
 <br>
+
 ---
 
 ## part four: the psychology of a cog
@@ -116,6 +122,7 @@ in reality, you probably want to do any of those things. you simply want people 
 to accomplish this, an owner must understand the psychology of an owner.
 
 <br>
+
 ---
 
 ## part five: the psychology of an owner
@@ -147,6 +154,7 @@ unbeknownst to the employees, you don't work as many hours as they do. you get p
 you can verify things are running as expected once you have created a pyramid-like compensation structure.
 
 <br>
+
 ---
 
 ## part six: rusty cogs
@@ -163,6 +171,7 @@ there are going to be some "free thinking" cogs that still remain. they might be
 it is probably best for "the company" (see part five) to get rid of rusty cogs.
 
 <br>
+
 ---
 
 ## part seven: getting rid of rusty cogs
@@ -176,6 +185,7 @@ follow these steps:
 5: repeat
 
 <br>
+
 ---
 
 ## part eight: [[ redacted ]]
