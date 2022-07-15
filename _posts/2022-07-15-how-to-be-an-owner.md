@@ -195,4 +195,4 @@ follow these steps:
 
 ## Now it's your turn
 
-Time for a self analysis. What step is _your_ company at right now?
+Time for a self-diagnosis. What step is _your_ company at right now?
