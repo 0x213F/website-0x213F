@@ -191,7 +191,7 @@ it is probably best for <a href="#part-five">_the company_</a> to get rid of _ru
 
 ---
 
-## part seven: getting rid of rusty cogs
+## <span id="part-seven">part seven: getting rid of rusty cogs</span>
 
 follow these steps:
 
@@ -203,14 +203,16 @@ follow these steps:
 
 <br>
 
-### addendum
+---
+
+## part eight: compliance
 
 for companies where:
 
 * they are seeking vc (venture capital) funding
 * vc already has majority control of board
 
-**the above steps are a frequent prescription.** you may be required to comply.
+**<a href="#part-seven">the steps outlined in part seven</a> are a frequent prescription.** you may be required to comply.
 
 for more information on ownership compliance, please refer to <a href="#figure-five">figure five</a>.
 
