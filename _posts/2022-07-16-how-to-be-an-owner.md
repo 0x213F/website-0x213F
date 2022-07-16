@@ -4,10 +4,6 @@ title: how to be an owner
 weight: 91
 ---
 
-<br>
-
----
-
 ## part one: the owner
 
     (figure 1)
