@@ -47,10 +47,10 @@ the choice to hire _an employee_ is done under the presumption that the cost of 
 
 after reading the previous section, **_the employee may begin to question their reality:_**
 
-* will I get paid more if I work harder?
-* will I get paid more if the business succeeds?
+* will i get paid more if i work harder?
+* will i get paid more if the business succeeds?
 * what happens if business goes poorly?
-* why should I work hard to make the owners richer?
+* why should i work hard to make the owners richer?
 
 the worker is left with a few choices:
 
@@ -99,11 +99,11 @@ in summary, the 4 things to focus on in order to grease up _the cogs_ are:
 1. working conditions
 1. manipulate the job market (realistically not possible)
 
-these aren't great options.
+... admittedly, these aren't great options.
 
-_the owner_ should wants people to work more and get paid less; they want _their investment_ to have a high roi.
+_the owner_ probably wants people to work more and get paid less; they want _their investment_ to have the highest possible roi.
 
-to accomplish this, **_the owner must understand the psychology of an owner._**
+to accomplish this, **_you must understand the psychology of an owner._**
 
 <br>
 
@@ -111,15 +111,15 @@ to accomplish this, **_the owner must understand the psychology of an owner._**
 
 ## <span id="part-five">part five: the psychology of an owner</span>
 
-_goal: manipulate the emotional state of employees so that:_
+_your goal is manipulate the emotional state of employees so that they:_
 
-* they accept lower wages
+* accept lower wages
 * put in extra hours
 * are fully productive while at work
 
-to do accomplish this, take note of how _employees_ perceive _the owner_.
+to accomplish this, you should take note of how _employees_ perceive _the owner_.
 
-**absolve your ego as an owner. _you_ are now reborn as _an employee_.**
+**the owner should absolve their ego and be reborn as _an employee_.**
 
     (figure 4)
 
@@ -127,19 +127,19 @@ to do accomplish this, take note of how _employees_ perceive _the owner_.
 
     diagram: two points and an arrow pointing to the company
 
-_employees_ are to uphold the company for "the greater good." as such, _they_ work hard and diligently.
+a typical _employee_ should work hard to uphold the company. (increase profits, hit kpis, et al.)
 
-_you_ operate just as any other employee would: _you_ also transact with the company in the name of "progress" and "success."
+as such, _the owner_ should be seen as synonymous to an employee.
 
-_You_ work hard and "dangle the carrot" in front of yourself, just as it is done for _the others_.
+_the owner_ works hard and a carrot dangling in front of themselves, just as it is done for _the others_.
 
 if done correctly, this should build camaraderie amongst _the entire team_. _everyone_ should be happily working toward a common goal due to "aligned incentives."
 
-unbeknownst to _the employees_:
+... unbeknownst to _the employees_:
 
-* _you_ don't actually work as many hours as _they_ do.
-* _you_ get paid more than _they_ do.
-* **your carrot is bigger than theirs.**
+* _the owner_ don't actually work as many hours as _they_ do.
+* _the owner_ gets paid more than _they_ do.
+* **_the owner_ has more carrot than _they_ do.**
 
 to verify things are running as expected, **make certain that _everyone_ is unquestioning and satisfied with the company's pyramid-like compensation structure.**
 
