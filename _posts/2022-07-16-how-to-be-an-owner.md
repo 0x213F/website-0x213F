@@ -129,7 +129,7 @@ to accomplish this, _the owner_ must consider the perceived gap <a href="#figure
 
 a typical _employee_ should work hard to uphold the company. (increase profits, hit kpis, et al.)
 
-**_reminder: the emotion you are trying to impose on employees is fear. in fear for their wellbeing, employees should work hard to ensure that the company succeeds._**
+**_reminder: employees should (subconsciously) be fearful for their wellbeing. this should increase productivity amongst employees, ensuring the company's success._**
 
 as such, _the owner_ should be seen as synonymous to an employee. "one of us."
 
@@ -143,7 +143,7 @@ if done correctly, this should build camaraderie amongst _the entire team_. the 
 
 to verify things are running as expected, **make certain that _everyone_ is unquestioning, satisfied, and deeply fearful.**
 
-once this dynamic is set, the company is destined to have a pyramid-like power structure.
+<span id="figure-five">once this dynamic is set, the company is destined to have a pyramid-like power structure.</span>
 
     (figure 5)
 
@@ -200,6 +200,21 @@ follow these steps:
 1. dispose of the rusty cogs
 1. instill both **fear** and **gratitude** into those that remain
 1. <span style="color: red;">**repeat**</span>
+
+<br>
+
+### addendum
+
+for companies where:
+
+* they are seeking vc (venture capital) funding
+* vc already has majority control of board
+
+**the above steps are a frequent prescription.** you may be required to comply.
+
+for more information on ownership compliance, please refer to <a href="#figure-five">figure five</a>.
+
+<span style="color: red;">**please be mindful of who your real owner is.**</span>
 
 <br><br><br>
 
