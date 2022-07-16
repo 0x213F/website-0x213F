@@ -26,7 +26,7 @@ when a business's profits exceed its expenditures, _the business owner_ must dec
 
     diagram: two points and a double-sided arrow
 
-_thereby, the right point is born._
+<span id="figure-two">_thereby, the right point is born._</span>
 
 the choice to hire _an employee_ is done under the presumption that the cost of their labor will be less than the value they add to the company.
 
@@ -47,10 +47,10 @@ the choice to hire _an employee_ is done under the presumption that the cost of 
 
 after reading the previous section, **_the employee may begin to question their reality:_**
 
-* will i get paid more if i work harder?
-* will i get paid more if the business succeeds?
-* what happens if business goes poorly?
-* why should i work hard to make the owners richer?
+* _"will i get paid more if i work harder?"_
+* _"will i get paid more if the business succeeds?"_
+* _"what happens if business goes poorly?"_
+* _"why should i work hard to make the owners richer?"_
 
 the worker is left with a few choices:
 
@@ -72,8 +72,8 @@ the worker is left with a few choices:
 
 after reading the previous section, **_the owner begins to worry about their assets:_**
 
-* are my employees really trying their hardest?
-* are my employees really passionate about making me richer?
+* _"are my employees really trying their hardest?"_
+* _"are my employees really passionate about making me richer?"_
 
 _the owner_ needs to ensure their workers are productive and motivated.
 
@@ -87,23 +87,23 @@ to accomplish this, **_the owner must understand the psychology of a cog._**
 
 a good cog is grateful for their job. **_reasons why cogs are happy and don't question their surroundings:_**
 
-* "the hours of this job are so relaxed and flexible!"
-* "this job pays good money; why would i ever leave?"
-* "money can't buy happiness, and this job makes me happy."
-* "i literally couldn't find another job if i tried. it's tough out there."
+* _"the hours of this job are so relaxed and flexible!"_
+* _"this job pays good money; why would i ever leave?"_
+* _"money can't buy happiness, and this job makes me happy."_
+* _"i literally couldn't find another job if i tried. it's tough out there."_
 
 in summary, the 4 things to focus on in order to grease up _the cogs_ are:
 
 1. hours
 1. wages
 1. working conditions
-1. manipulate the job market (realistically not possible)
+1. manipulate the job market (realistically, not possible)
 
-... admittedly, these aren't great options.
+...admittedly, these aren't great options.
 
-_the owner_ probably wants people to work more and get paid less; they want _their investment_ to have the highest possible roi.
+_the owner_ probably wants people to work more and get paid less; they want to maximize the roi on _their investment_.
 
-to accomplish this, **_you must understand the psychology of an owner._**
+to accomplish this, **_the owner must understand the psychology of an owner._**
 
 <br>
 
@@ -111,13 +111,13 @@ to accomplish this, **_you must understand the psychology of an owner._**
 
 ## <span id="part-five">part five: the psychology of an owner</span>
 
-_your goal is manipulate the emotional state of employees so that they:_
+_goal: to manipulate the emotional state of employees so that they:_
 
 * accept lower wages
 * put in extra hours
 * are fully productive while at work
 
-to accomplish this, you should take note of how _employees_ perceive _the owner_.
+to accomplish this, _the owner_ must consider the perceived gap <a href="#figure-two">(figure 2)</a> between them and their _employees_.
 
 **the owner should absolve their ego and be reborn as _an employee_.**
 
@@ -129,19 +129,21 @@ to accomplish this, you should take note of how _employees_ perceive _the owner_
 
 a typical _employee_ should work hard to uphold the company. (increase profits, hit kpis, et al.)
 
-as such, _the owner_ should be seen as synonymous to an employee.
+**_reminder: the emotion you are trying to impose on employees is fear. in fear for their wellbeing, employees should work hard to ensure that the company succeeds._**
 
-_the owner_ works hard and a carrot dangling in front of themselves, just as it is done for _the others_.
+as such, _the owner_ should be seen as synonymous to an employee. "one of us."
 
-if done correctly, this should build camaraderie amongst _the entire team_. _everyone_ should be happily working toward a common goal due to "aligned incentives."
+if done correctly, this should build camaraderie amongst _the entire team_. the idea is to convince _employees_ that everyone is happily working toward a common goal due to "aligned incentives."
 
-... unbeknownst to _the employees_:
+...unbeknownst to _the employees_:
 
 * _the owner_ don't actually work as many hours as _they_ do.
 * _the owner_ gets paid more than _they_ do.
-* **_the owner_ has more carrot than _they_ do.**
+* _the owner_ "steers the ship" (makes all the decisions)
 
-to verify things are running as expected, **make certain that _everyone_ is unquestioning and satisfied with the company's pyramid-like compensation structure.**
+to verify things are running as expected, **make certain that _everyone_ is unquestioning, satisfied, and deeply fearful.**
+
+once this dynamic is set, the company is destined to have a pyramid-like power structure.
 
     (figure 5)
 
@@ -172,10 +174,16 @@ to verify things are running as expected, **make certain that _everyone_ is unqu
 
 there are going to be some _"free thinking" cogs_ that still remain. they might be wondering:
 
-* i don't get paid enough
-* when do i get my carrot?
-* what is my job security?
-* why is everyone two faced?
+* _"i don't get paid enough"_
+* _"when do i get my carrot?"_
+* _"what is my job security?"_
+* _"why is everyone two faced?"_
+
+they also might:
+
+* not embody company values
+* not be working as hard as they could
+* not be delivering a return on investment
 
 it is probably best for <a href="#part-five">_the company_</a> to get rid of _rusty cogs_.
 
@@ -191,7 +199,7 @@ follow these steps:
 1. _"oops, we over-hired. now we have to do layoffs"_
 1. dispose of the rusty cogs
 1. instill both **fear** and **gratitude** into those that remain
-1. repeat
+1. <span style="color: red;">**repeat**</span>
 
 <br><br><br>
 
