@@ -18,7 +18,7 @@ weight: 91
 
 the single point in (figure 1) represents _the business owner_, the person who controls a business and all of its operations.
 
-when a business's profits exceed its expenditures, _the business owner_ must decide where to reinvest the excess money. the most popular investment strategy amongst owners is to hire employees:
+<span id="figure-two">when a business's profits exceed its expenditures, _the business owner_ must decide where to reinvest the excess money. the most popular investment strategy amongst owners is to hire employees:</span>
 
     (figure 2)
 
@@ -26,7 +26,7 @@ when a business's profits exceed its expenditures, _the business owner_ must dec
 
     diagram: two points and a double-sided arrow
 
-<span id="figure-two">_thereby, the right point is born._</span>
+_thereby, the right point is born._
 
 the choice to hire _an employee_ is done under the presumption that the cost of their labor will be less than the value they add to the company.
 
